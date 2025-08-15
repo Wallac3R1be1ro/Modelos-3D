@@ -1,0 +1,8 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://cqpe2nu4lxjh6"]
+
+[ext_resource type="Texture2D" uid="uid://b13joqffo8655" path="res://Texturas/Materiais-Escola/Material-PisoEscola/Piso-Textura-Escola.png" id="1_c8dfl"]
+
+[resource]
+albedo_texture = ExtResource("1_c8dfl")
+metallic = 0.64
+metallic_specular = 0.52

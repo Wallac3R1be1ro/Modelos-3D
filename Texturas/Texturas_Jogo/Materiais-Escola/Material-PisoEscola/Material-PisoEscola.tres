@@ -1,0 +1,8 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://d2ul1i6ljecs6"]
+
+[ext_resource type="Texture2D" uid="uid://m0rxrccxtoa7" path="res://Texturas/Materiais-Escola/Material-PisoEscola/PrefabBloco2_Textura-Piso-Escola.png" id="1_twabj"]
+
+[resource]
+albedo_texture = ExtResource("1_twabj")
+metallic = 0.43
+metallic_specular = 0.0
